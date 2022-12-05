@@ -10,5 +10,32 @@ buildNumber.properties
 .mvn/wrapper/maven-wrapper.jar
 .idea/
 */.DS_Store
+*.ipr
 *.iml
+*.iws
 */*.iml
+*/*.log
+
+# Compiled class file
+*.class
+
+# Eclipse
+.project
+.classpath
+.settings/
+
+# out
+**/out/
+
+
+# Package Files #
+*.jar
+*.war
+*.nar
+*.ear
+*.zip
+*.tar
+*.tar.gz
+*.rar
+*.pid
+*.orig
