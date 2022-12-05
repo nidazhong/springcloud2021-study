@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f4544441-3141-462e-8ae7-6e3753744412" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/opt/apache-maven-3.6.3" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="/opt/apache-maven-3.6.3/conf/settings.study.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2IRr8QIluVvYSkBYuddG4VRhgdT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;graalvm-17&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nidazhong/IdeaProjects/study/springcloud2021-demo/provider-payment8002/src/main/resources&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.269275&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;MavenSettings&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f5c4f29123038d1569b782d982a4dfac&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="ReactorSettings">
+    <option name="notificationShown" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/provider-payment8002/src/main/resources" />
+      <recent name="$PROJECT_DIR$/provider-payment8002/src/main/java/prev/ndz/springcloud2021/payment8002" />
+      <recent name="$PROJECT_DIR$/consumer-order80/src/main/java/prev/ndz/springcloud2021/order80" />
+      <recent name="$PROJECT_DIR$/eureka-server7002/src/main/resources" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.Order80Application">
+    <configuration name="EurekaServer7002Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prev.ndz.springcloud2021.eurekaserver7002.EurekaServer7002Application" />
+      <module name="eureka-server7002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prev.ndz.springcloud2021.eurekaserver7002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8002Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="prev.ndz.springcloud2021.payment8002.Payment8002Application" />
+      <module name="provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prev.ndz.springcloud2021.payment8002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="prev.ndz.springcloud2021.payment8001.controller.* and 2 more" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="provider-payment8001" />
+      <option name="TEST_OBJECT" value="pattern" />
+      <patterns>
+        <pattern testClass="prev.ndz.springcloud2021.payment8001.controller.*" />
+        <pattern testClass="prev.ndz.springcloud2021.payment8001.dao.*" />
+        <pattern testClass="prev.ndz.springcloud2021.payment8001.service.*" />
+      </patterns>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="prev.ndz.springcloud2021.eurekaserver7001.EurekaServer7001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServer7002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="eureka-server7002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="prev.ndz.springcloud2021.eurekaserver7002.EurekaServer7002Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Order80Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="consumer-order80" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="prev.ndz.springcloud2021.order80.Order80Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8001Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="provider-payment8001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="prev.ndz.springcloud2021.payment8001.Payment8001Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Payment8002Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="provider-payment8002" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="prev.ndz.springcloud2021.payment8002.Payment8002Application" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="prev.ndz.springcloud2021.payment8002.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.EurekaServer7002Application" />
+      <item itemvalue="Application.Payment8002Application" />
+      <item itemvalue="JUnit.prev.ndz.springcloud2021.payment8001.controller.* and 2 more" />
+      <item itemvalue="Spring Boot.Payment8001Application" />
+      <item itemvalue="Spring Boot.EurekaServer7001Application" />
+      <item itemvalue="Spring Boot.EurekaServer7002Application" />
+      <item itemvalue="Spring Boot.Order80Application" />
+      <item itemvalue="Spring Boot.Payment8002Application" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Payment8002Application" />
+        <item itemvalue="JUnit.prev.ndz.springcloud2021.payment8001.controller.* and 2 more" />
+        <item itemvalue="Application.EurekaServer7002Application" />
+        <item itemvalue="Application.Payment8002Application" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f4544441-3141-462e-8ae7-6e3753744412" name="Changes" comment="" />
+      <created>1670155077021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670155077021</updated>
+      <workItem from="1670155078053" duration="6005000" />
+      <workItem from="1670161098618" duration="3677000" />
+      <workItem from="1670167532704" duration="7185000" />
+      <workItem from="1670175175203" duration="432000" />
+      <workItem from="1670175610803" duration="229000" />
+      <workItem from="1670175855111" duration="943000" />
+      <workItem from="1670211845584" duration="9778000" />
+      <workItem from="1670246128677" duration="457000" />
+      <workItem from="1670246598318" duration="372000" />
+      <workItem from="1670246973109" duration="2000" />
+      <workItem from="1670246989275" duration="75000" />
+      <workItem from="1670247066957" duration="29000" />
+      <workItem from="1670247104558" duration="737000" />
+      <workItem from="1670247845255" duration="5692000" />
+    </task>
+    <task id="LOCAL-00001" summary="fix first push">
+      <created>1670253033414</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670253033414</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix fix">
+      <created>1670253076401</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1670253076401</updated>
+    </task>
+    <task id="LOCAL-00003" summary="remove .DS_Store">
+      <created>1670253288701</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1670253288701</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fix first push" />
+    <MESSAGE value="fix fix" />
+    <MESSAGE value="remove .DS_Store" />
+    <option name="LAST_COMMIT_MESSAGE" value="remove .DS_Store" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/springcloud2021_demo$EurekaServer7002Application.ic" NAME="EurekaServer7002Application Coverage Results" MODIFIED="1670170137114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>prev.ndz.springcloud2021.eurekaserver7002.*</FILTER>
+    </SUITE>
+  </component>
+</project>
