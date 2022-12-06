@@ -21,3 +21,6 @@ sprinboot2.7教程：https://blog.csdn.net/f88069684/article/details/125296471
 - 1、EurekaServer7001
 - 2、EurekaServer7002
 - 3、demo-api-commons # 存放通用类、工具
+
+## 安装必要软件
+- mysql8: docker run -p 3308:3306 --name mysql8 -e MYSQL_ROOT_PASSWORD=123456  -d mysql:8.0.20
