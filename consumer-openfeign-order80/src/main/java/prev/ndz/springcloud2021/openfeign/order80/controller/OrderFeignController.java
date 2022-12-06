@@ -9,6 +9,9 @@ import prev.ndz.springcloud2021.openfeign.order80.service.PaymentFeignService;
 
 import javax.annotation.Resource;
 
+/**
+ * OpenFeign 默认的负载均衡策略为轮询
+ */
 @RestController
 @Slf4j
 public class OrderFeignController {
