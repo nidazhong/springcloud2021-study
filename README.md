@@ -15,9 +15,12 @@
 
 mysql-druid版本：https://blog.csdn.net/qq_51553982/article/details/122422660
 
-sprinboot2.7教程：https://blog.csdn.net/f88069684/article/details/125296471
+springBoot2.7教程：https://blog.csdn.net/f88069684/article/details/125296471
 
 ## 项目构建过程
 - 1、EurekaServer7001
 - 2、EurekaServer7002
 - 3、demo-api-commons # 存放通用类、工具
+
+## 安装必要软件
+- mysql8: docker run -p 3308:3306 --name mysql8 -e MYSQL_ROOT_PASSWORD=123456  -d mysql:8.0.20

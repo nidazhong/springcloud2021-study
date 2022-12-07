@@ -16,6 +16,7 @@ import org.springframework.core.env.Environment;
 
 /**
  * 负载均衡策略
+ * netflix Ribbon 已经被 SpringCloud loadbalancer 代替！！！
  */
 //@Configuration
 public class MySelfRule {
