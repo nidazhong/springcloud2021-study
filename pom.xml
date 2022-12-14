@@ -105,10 +105,10 @@
     <!--每个模块都会自动引入-->
     <dependencies>
         <!--Spring Boot 2.4版本开始，配置文件加载方式进行了重构，没有此依赖许多starter无法拉取配置-->
-        <dependency>
-            <groupId>org.springframework.cloud</groupId>
-            <artifactId>spring-cloud-starter-bootstrap</artifactId>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.cloud</groupId>-->
+<!--            <artifactId>spring-cloud-starter-bootstrap</artifactId>-->
+<!--        </dependency>-->
         <!--升级到springboot2.4需要增加以下依赖，否则nacos无法拉取配置END-->
         <dependency>
             <groupId>io.netty</groupId>

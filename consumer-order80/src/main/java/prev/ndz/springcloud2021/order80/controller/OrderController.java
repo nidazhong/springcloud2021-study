@@ -10,7 +10,6 @@ import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;
 import org.springframework.web.bind.annotation.RestController;
 import org.springframework.web.client.RestOperations;
-import org.springframework.web.client.RestTemplate;
 import prev.ndz.commons.entities.CommonResult;
 import prev.ndz.commons.entities.Payment;
 import prev.ndz.springcloud2021.order80.lb.LoadBalancer;

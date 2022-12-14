@@ -43,6 +43,11 @@
         <!--项目之间不传递-->
         <optional>true</optional>
     </dependency>
+    <!--bootstrap-->
+    <dependency>
+        <groupId>org.springframework.cloud</groupId>
+        <artifactId>spring-cloud-starter-bootstrap</artifactId>
+    </dependency>
     <dependency>
         <groupId>prev.ndz</groupId>
         <artifactId>my-utils</artifactId>

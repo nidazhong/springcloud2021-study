@@ -9,13 +9,15 @@ import prev.ndz.commons.entities.Payment;
 
 /**
  * FeignClient 注解的Value为被调用者服务的注册名称（ApplicationName）
+ * FeignClient 注解在客户端，value值是提供者的服务注册名称
  */
 @Component
 @FeignClient(value = "PROVIDER-PAYMENT-SERVICE")
 public interface PaymentFeignService {
+
     @GetMapping(value = "/payment/get/{id}")
-    public CommonResult<Payment> getPaymentById(@PathVariable("id") Long id);
+    CommonResult<Payment> getPaymentById(@PathVariable("id") Long id);
 
     @GetMapping(value = "/payment/feign/timeout")
-    public String paymentFeignTimeout();
+    String paymentFeignTimeout();
 }
