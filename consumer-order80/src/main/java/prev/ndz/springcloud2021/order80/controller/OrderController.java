@@ -42,17 +42,17 @@ public class OrderController {
     private RestOperations restTemplate;
 
     @GetMapping("/consumer/payment/create")
-    public CommonResult<Payment> create(Payment payment) {
+    public CommonResult create(Payment payment) {
         return restTemplate.postForObject(PAYMENT_URL + "/payment/create", payment, CommonResult.class);
     }
 
     @GetMapping("/consumer/payment/get/{id}")
-    public CommonResult<Payment> getPayment(@PathVariable("id") Long id) {
+    public CommonResult getPayment(@PathVariable("id") Long id) {
         return restTemplate.getForObject(PAYMENT_URL + "/payment/get/" + id, CommonResult.class);
     }
 
     @GetMapping("/consumer/payment/getForEntity/{id}")
-    public CommonResult<Payment> getPayment2(@PathVariable("id") Long id) {
+    public CommonResult getPayment2(@PathVariable("id") Long id) {
         ResponseEntity<CommonResult> entity = restTemplate.getForEntity(PAYMENT_URL + "/payment/get/" + id, CommonResult.class);
 
         if (entity.getStatusCode().is2xxSuccessful()) {
