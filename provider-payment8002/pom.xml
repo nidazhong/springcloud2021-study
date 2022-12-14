@@ -40,6 +40,8 @@
         <groupId>prev.ndz</groupId>
         <artifactId>demo-api-commons</artifactId>
         <version>${project.version}</version>
+        <!--项目之间不传递-->
+        <optional>true</optional>
     </dependency>
     <dependency>
         <groupId>prev.ndz</groupId>
