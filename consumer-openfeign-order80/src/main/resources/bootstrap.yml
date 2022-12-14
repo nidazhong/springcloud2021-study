@@ -1,0 +1,4 @@
+## 配置加载顺序 bootstrap > application ，后者会覆盖前者
+
+server:
+  port: 80
