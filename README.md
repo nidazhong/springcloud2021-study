@@ -8,6 +8,7 @@
 - Graalvm: 22.3.0
 - maven：3.6.3
 - mysql: 8.0.x
+- nacos: v2.1.2
 
 ## 重要
 Spring Cloud官方尤其着重指出ribbon、hystrix 和 zuul从Spring Cloud 2020.0正式版发布后将不再被Spring Cloud支持。
@@ -46,7 +47,7 @@ docker run -d \
 -e MYSQL_SERVICE_USER=root \
 -e MYSQL_SERVICE_PASSWORD=123456 \
 -e MYSQL_SERVICE_DB_NAME=nacos \
--p 8848:8848 nacos/nacos-server:v2.1.2
+-p 8848:8848 -p 9848:9848 nacos/nacos-server:v2.1.2
 
 ##
 访问：http://localhost:8848/nacos  账号：nacos/nacos

@@ -17,6 +17,7 @@
         <module>provider-payment8002</module>
         <module>consumer-order80</module>
         <module>consumer-openfeign-order80</module>
+        <module>nacos-client3377</module>
     </modules>
 
     <properties>
@@ -124,12 +125,12 @@
 <!--            <artifactId>spring-cloud-starter-bootstrap</artifactId>-->
 <!--        </dependency>-->
         <!--升级到springboot2.4需要增加以下依赖，否则nacos无法拉取配置END-->
-        <dependency>
-            <groupId>io.netty</groupId>
-            <artifactId>netty-resolver-dns-native-macos</artifactId>
-            <classifier>osx-aarch_64</classifier>
-            <version>${netty-resolver-dns-native-macos.version}</version>
-        </dependency>
+<!--        <dependency>-->
+<!--            <groupId>io.netty</groupId>-->
+<!--            <artifactId>netty-resolver-dns-native-macos</artifactId>-->
+<!--            <classifier>osx-aarch_64</classifier>-->
+<!--            <version>${netty-resolver-dns-native-macos.version}</version>-->
+<!--        </dependency>-->
     </dependencies>
 
 
