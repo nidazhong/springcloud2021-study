@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>prev.ndz</groupId>
-        <artifactId>springcloud2021-demo</artifactId>
+        <artifactId>springcloud2021-study</artifactId>
         <version>1.0-SNAPSHOT</version>
     </parent>
 
