@@ -39,6 +39,27 @@
             <groupId>com.google.guava</groupId>
             <artifactId>guava</artifactId>
         </dependency>
+<!--        <dependency>-->
+<!--            <groupId>io.github.cqpsjsl</groupId>-->
+<!--            <artifactId>fastbean</artifactId>-->
+<!--            <version>2.0.2</version>-->
+<!--        </dependency>-->
+        <!--easy-mapper-->
+<!--        <dependency>-->
+<!--            <groupId>com.baidu.unbiz</groupId>-->
+<!--            <artifactId>easy-mapper</artifactId>-->
+<!--            <exclusions>-->
+<!--                <exclusion>-->
+<!--                    <groupId>org.slf4j</groupId>-->
+<!--                    <artifactId>slf4j-log4j12</artifactId>-->
+<!--                </exclusion>-->
+<!--            </exclusions>-->
+<!--        </dependency>-->
+        <!--junit-->
+        <dependency>
+            <groupId>junit</groupId>
+            <artifactId>junit</artifactId>
+        </dependency>
     </dependencies>
 
 
